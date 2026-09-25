@@ -1,0 +1,33 @@
+- name: "Afroz Basha"
+  Age: 29
+  DOB: 29-03-1996
+  addresses:
+  - doorno: 20\123-20
+    Street: APGB
+    city: Kadiri
+    pin: 515551
+    type: Current address
+
+  - doorno: 20\123-20
+    Street: APGB
+    city: Nallacheruvu
+    pin: 515551
+    type: Perment address
+
+- name: "Kishore"
+  Age: 30
+  DOB: 29-03-1995
+  addresses:
+  - doorno: 20\123-20
+    Street: APGB
+    city: Nallacheruvu
+    pin: 515551
+    type: Current address
+
+    - doorno: 20\123-20
+    Street: APGB
+    city: Kadiri
+    pin: 515551
+    type: perm address
+
+  
